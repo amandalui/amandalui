@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-✨ Head of product <a href="https://github.com/meetalbert">@albert</a>
+✨ Head of product <a href="https://www.albert.com">@albert</a>
 <br>
 🏰 Former Walt Disney Imagineer
 <br>
