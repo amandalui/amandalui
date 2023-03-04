@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- ✨ Head of product @albert
+- 🏰 Former Walt Disney Imagineer
+- 👩‍🎨 CalArts alum
+
 <!--
 **amandalui/amandalui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
