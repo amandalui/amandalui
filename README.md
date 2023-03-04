@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-✨ Head of product @albert\n
-🏰 Former Walt Disney Imagineer\n
+✨ Head of product @albert
+<br>
+🏰 Former Walt Disney Imagineer
+<br>
 👩‍🎨 CalArts alum
 
 <!--
